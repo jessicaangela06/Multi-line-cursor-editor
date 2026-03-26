@@ -54,7 +54,7 @@ text-editor/
 ## ▶️ How to Run
 
 ```bash
-python main.py
+python multi_line_editor.py
 ```
 
 Example:

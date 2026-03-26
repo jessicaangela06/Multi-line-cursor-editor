@@ -43,21 +43,7 @@ A Python-based multi-line text editor inspired by vim. Supports cursor movement,
 * Undo logic
 * Modular programming
 
-## 🏗️ Project Structure
-
-```
-text-editor/
-│── main.py
-│── README.md
-```
-
 ## ▶️ How to Run
-
-```bash
-python multi_line_editor.py
-```
-
-Example:
 
 ```
 > iHello world

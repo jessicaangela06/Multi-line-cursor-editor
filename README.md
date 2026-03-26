@@ -1,5 +1,5 @@
 # Multi-line-cursor-editor
-A Python-based multi-line text editor inspired which supports cursor movement, text insertion/deletion, copy-paste, and undo via command inputs.
+A Python-based multi-line text editor inspired which supports cursor movement, text insertion/deletion, copy-paste, and undo via command inputs.__
 ✏️ Text Editing
 Insert text before cursor (i)
 Append text after cursor (a)
